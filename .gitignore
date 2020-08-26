@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+// ******************
+print (\t\t***"Кулинарная книга"***\n\n)
+
